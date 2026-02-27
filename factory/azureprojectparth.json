@@ -1,0 +1,9 @@
+{
+	"name": "azureprojectparth",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7320e3a7-0d2a-4ad5-abd7-db2fdd98af62",
+		"tenantId": "f1d655b8-91d3-4f9c-b8fa-3f1cdde2e9f1"
+	}
+}
